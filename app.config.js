@@ -1,0 +1,1 @@
+window.__APP__GLOB__CONF__={"VITE_APP_GLOB_BASE_API":"/api","VITE_APP_GLOB_BASE_API_TEST":"/api-test"};Object.freeze(window.__APP__GLOB__CONF__);Object.defineProperty(window,"__APP__GLOB__CONF__",{configurable:false,writable:false,});
